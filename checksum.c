@@ -32,7 +32,7 @@ int sum = 0;
  // int *p = (int *) &buffer;
 
 
-  byte header[10]
+  byte header[10];
 
 read(STDIN_FILENO, &header, 10);
 
