@@ -21,7 +21,7 @@ int main (int argc, char * argv[], char ** envp) {
 
 
 
-inc c;
+int c;
 int count = 10;
 int sum = 0;
  //int fd;
